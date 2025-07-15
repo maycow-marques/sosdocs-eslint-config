@@ -1,0 +1,36 @@
+{
+  "name": "@sosdocs/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint shared configs for Sosdocs projects (Node and React)",
+  "main": "node/index.js",
+  "exports": {
+    "./node": "./node.js",
+    "./next": "./next.js"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "sosdocs",
+    "node",
+    "react"
+  ],
+  "author": "Maycow Douglas Marques de Melo <maycow.marques@proton.me>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "eslint": "^9.31.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
+    "typescript-eslint": "^8.37.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-organize-imports": "^4.1.0",
+    "prettier-plugin-tailwindcss": "^0.6.14"
+  }
+}
