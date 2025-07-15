@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maycow-marques/sosdocs-eslint-config"
+    "url": "git+https://github.com/maycow-marques/sosdocs-eslint-config.git"
   },
   "keywords": [
     "eslint",
