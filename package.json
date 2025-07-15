@@ -7,6 +7,10 @@
     "./node": "./node.js",
     "./next": "./next.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maycow-marques/sosdocs-eslint-config"
+  },
   "keywords": [
     "eslint",
     "config",
