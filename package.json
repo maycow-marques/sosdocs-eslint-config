@@ -1,6 +1,6 @@
 {
   "name": "@sosdocs/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint shared configs for Sosdocs projects (Node and React)",
   "main": "node/index.js",
   "exports": {
